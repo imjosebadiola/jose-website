@@ -1,0 +1,101 @@
+body {
+            font-family: Arial, sans-serif;	  	     	
+  	    letter-spacing: 2px; 	
+  	    background: linear-gradient(to bottom, black 5%, gray 98%);
+        }
+        .container-1{        	   
+	    max-width: 1200px;   
+            margin: 0 auto;
+            padding: 20px;            
+            background-color: #afeeee;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);	
+ 	    height: 830px;	
+	    border-radius: 10px;   
+        } 
+	 .profile-img{
+        height: 180px;
+        width: 180px;     	   
+  	    border-radius: 50%; 
+ 	    margin-bottom: 20px;
+  	    margin-left: 60px;
+  	    border: 3px solid white;
+  	    box-shadow: 6px 7px 9px 5px #fbb03b;  
+	    object-fit: cover;
+	}	
+	.profile-img img{
+  	    
+		width: 100%;
+	    height: 180px;
+        width: 180px; 
+	    margin-left: 0px;
+	   
+        border-radius: 50%;
+	    object-fit: cover;
+	}
+	.para{
+   	   margin-left: 50%;
+   	   padding 10px;
+	}
+	.left{
+  	     background-color:  #fbb03b;
+   	     width: 310px;
+   	     height: 825px;
+   	     float: left;
+	     border-radius: 10px;
+	}
+
+	.right{
+  	     width: 650px;
+   	     float: left;
+	}      
+  
+        .pleft{
+            margin-bottom: 5px;
+	    border: 2px solid black;	
+	    text-align: center;
+	    letter-spacing: 5px;
+        }
+	.contact-info{
+	    padding: 5px 0px;
+	    margin-left: 5px;
+	}
+ 	.expertise-info{
+	    padding: 5px 0px;
+	    margin-left: 5px;
+	}
+	.skills-info{
+	    padding: 5px 0px;
+	    margin-left: 5px;
+	}
+	
+	.container-2{
+	     margin-left: 30%;
+	     text-align: auto;
+	     left: 110%;	
+	     
+	}
+	.objective{
+	    margin-top: 40px;	   
+	}
+	.skill-container{
+		 height: 10px;		
+  		 width: 90%;
+  		 background-color: #4d4d4d;
+  		 margin: 0px 10px;
+	}	
+	.skill{ 
+  		 text-align: left;
+  		 padding-top: 2px;
+ 	 	 padding-bottom: 2px;
+ 	 	 color: white;
+	}
+	.web{
+	  height: 6px;	
+  	 width: 84%;
+   	background-color: #afeeee; 
+	}
+	.gra{
+	  height: 6px;
+  	 width: 78%;
+   	background-color: #afeeee; 
+	}
